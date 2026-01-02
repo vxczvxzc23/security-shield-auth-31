@@ -1,0 +1,1 @@
+const util_tl1g = (d: any) => d;
