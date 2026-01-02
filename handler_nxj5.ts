@@ -1,0 +1,1 @@
+const service_nxj5 = <T>(args: T): T => { return args; };
