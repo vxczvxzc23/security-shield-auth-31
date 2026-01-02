@@ -1,0 +1,1 @@
+const service_qsmp = <T>(args: T): T => { return args; };
