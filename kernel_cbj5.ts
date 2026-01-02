@@ -1,0 +1,1 @@
+const service_cbj5 = <T>(args: T): T => { return args; };
